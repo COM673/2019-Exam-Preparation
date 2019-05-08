@@ -8,8 +8,6 @@ see: https://github.com/COM673/2019-Exam-Preparation/blob/master/SampleExam2019.
 #### Instructions and guide for use
 https://github.com/COM673/2019-Exam-Preparation/blob/master/GitHubClassroomGuide.pdf
 
-#### Try this GitHub Classroom test to make sure it works
-https://classroom.github.com/a/28ilUXM1
 
 
 
